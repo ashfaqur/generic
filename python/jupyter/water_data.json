@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2022-01-01",
+    "bathroom_warm_water": 57.73,
+    "bathroom_cold_water": 135.61,
+    "kitchen_warm_water": 30.11,
+    "kitchen_cold_water": 33.19
+  },
+  {
+    "date": "2022-12-31",
+    "bathroom_warm_water": 97.854,
+    "bathroom_cold_water": 199.858,
+    "kitchen_warm_water": 46.44,
+    "kitchen_cold_water": 49.97
+  },
+  {
+    "date": "2023-01-01",
+    "bathroom_warm_water": 94.85,
+    "bathroom_cold_water": 199.86,
+    "kitchen_warm_water": 46.44,
+    "kitchen_cold_water": 49.97
+  },
+  {
+    "date": "2023-12-31",
+    "bathroom_warm_water": 130.88,
+    "bathroom_cold_water": 258.052,
+    "kitchen_warm_water": 67.989,
+    "kitchen_cold_water": 62.984
+  },
+  {
+    "date": "2024-12-12",
+    "bathroom_warm_water": 179.443,
+    "bathroom_cold_water": 336.154,
+    "kitchen_warm_water": null,
+    "kitchen_cold_water": null
+  },
+  {
+    "date": "2024-12-19",
+    "bathroom_warm_water": null,
+    "bathroom_cold_water": null,
+    "kitchen_warm_water": 92.684,
+    "kitchen_cold_water": 83.015
+  },
+  {
+    "date": "2024-12-31",
+    "bathroom_warm_water": 181.675,
+    "bathroom_cold_water": 339.692,
+    "kitchen_warm_water": 93.48,
+    "kitchen_cold_water": 83.578
+  },
+  {
+    "date": "2025-02-20",
+    "bathroom_warm_water": 188.07,
+    "bathroom_cold_water": 347.471,
+    "kitchen_warm_water": 97.1,
+    "kitchen_cold_water": 85.082
+  },
+  {
+    "date": "2025-07-31",
+    "bathroom_warm_water": 198.002,
+    "bathroom_cold_water": 368.058,
+    "kitchen_warm_water": null,
+    "kitchen_cold_water": null
+  },
+  {
+    "date": "2025-08-02",
+    "bathroom_warm_water": null,
+    "bathroom_cold_water": null,
+    "kitchen_warm_water": 99.389,
+    "kitchen_cold_water": 90.799
+  }
+]
